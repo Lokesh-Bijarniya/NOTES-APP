@@ -21,46 +21,47 @@ To run this app locally, follow these steps:
 
 1. Clone this repository:
 
-```bash
-git clone https://github.com/your-username/notes-app.git
+    ```bash
+    git clone https://github.com/your-username/notes-app.git
+    ```
 
+2. Navigate to the project directory:
 
-2.Navigate to the project directory:
+    ```bash
+    cd notes-app
+    ```
 
-cd notes-app
+3. Install dependencies:
 
+    ```bash
+    npm install
+    ```
 
-3.Install dependencies:
+4. Run the app:
 
-npm install
+    ```bash
+    npm start
+    ```
 
+    The app will open in your default web browser at [http://localhost:3000](http://localhost:3000).
 
-4.Run the app:
+## Usage
 
-npm start
-
-
-The app will open in your default web browser at http://localhost:3000.
-
-
-
-
-Usage
-Click the "Create New Notes" button to create a new note.
-Click on an existing note to edit it.
-Use the formatting buttons to format your note (bold, italic, underline).
-Use the search bar to search for notes.
-
-
-
-
-Screenshots
-
-/Users/lokeshbijarniya/Desktop/Screenshot 2024-04-29 at 7.30.08 PM.png
+- Click the "Create New Notes" button to create a new note.
+- Click on an existing note to edit it.
+- Use the formatting buttons to format your note (bold, italic, underline).
+- Use the search bar to search for notes.
 
 
 
+## Screenshots
+
+![Screenshot 1](./assets/Screenshot%202024-04-29%20at%207.30.08%20PM.png)
 
 
-Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.# NOTES-APP
+
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
